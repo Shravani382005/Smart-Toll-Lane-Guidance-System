@@ -57,3 +57,9 @@ The system consists of four toll lanes.Each lane uses three IR sensors to detect
        ▼      ▼         ▼
      LEDs     LCD     Servo
    Indicator  Display  Motor
+
+
+## Proteus Simulation
+
+The following video demonstrates the working of the Smart Toll Lane Guidance System in Proteus.
+[▶ Watch Proteus Simulation](./proteus-simulation.mp4)
